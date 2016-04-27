@@ -1,7 +1,7 @@
 ## gpc-data
 GeoPostcodes public datasets.<br><br>
 
-#### GeoPC_Countries
+#### GeoPC_Countries.csv
 Country codes and names with their postal code schemes. This list is based on the cartographic section of the United Nations. 
 
 <table class="table table-bordered table-striped">
@@ -20,7 +20,7 @@ Country codes and names with their postal code schemes. This list is based on th
 </table>
 
 <br>
-#### GeoPC_Admin
+#### GeoPC_Admin.csv
 All official administrative division names included in the GeoPostcodes datasets. 
 
 <table class="table table-bordered table-striped">
@@ -39,7 +39,7 @@ All official administrative division names included in the GeoPostcodes datasets
 </table>
 
 <br>
-#### GeoPC_Timezones
+#### GeoPC_Timezones.csv
 World time zone names and codes including Daylight Saving Time (DST), data maintained by IANA.
 
 <table class="table table-bordered table-striped">
@@ -58,7 +58,7 @@ World time zone names and codes including Daylight Saving Time (DST), data maint
 </table>
 
 <br>
-#### GeoPC_Currencies
+#### GeoPC_Currencies.csv
 Currency codes ISO 4217 standard as published by the International Organization for Standardization (ISO).
 
 <table class="table table-bordered table-striped">
@@ -77,7 +77,7 @@ Currency codes ISO 4217 standard as published by the International Organization 
 </table>
 
 <br>
-#### GeoPC_Statistics
+#### GeoPC_Statistics.csv
 Statistical offices by country. Whenever possible we provide the statistical codes provided by these organisations in our region datasets.
 
 <table class="table table-bordered table-striped">
@@ -94,7 +94,7 @@ Statistical offices by country. Whenever possible we provide the statistical cod
 </table>
 
 <br>
-#### GeoPC_Languages
+#### GeoPC_Languages.csv
 Official languages list by country. ISO 639-1 and ISO 639-2 standards are published by the International Organization for Standardization (ISO).
 
 <table class="table table-bordered table-striped">
@@ -112,7 +112,7 @@ Official languages list by country. ISO 639-1 and ISO 639-2 standards are publis
 </table>
 
 <br>
-#### GeoPC_Callingcodes
+#### GeoPC_Callingcodes.csv
 International dialling codes by country.
 
 <table class="table table-bordered table-striped">
@@ -126,4 +126,56 @@ International dialling codes by country.
 </tbody>
 </table>
 
+<br>
+#### GeoPC_ISO3166-2.csv
+Principal subdivisions by country. ISO 3166-2 standard as published by the International Organization for Standardization (ISO).
+
+<table class="table table-bordered table-striped">
+<thead>
+  <tr><th width="150">Field name</th><th width="120">Field type</th><th>Description</th></tr>
+</thead>
+<tbody>
+  <tr><td><b>ISO</b></td><td><code>Char(2)</code></td><td>ISO 3166-1 Country code</td></tr>
+  <tr><td><b>Country</b></td><td><code>Char(50)</code></td><td>Country name</td></tr>
+  <tr><td><b>Code</b></td><td><code>Char(5)</code></td><td>ISO 3166-2 Region code</td></tr>
+  <tr><td><b>Name</b></td><td><code>Char(80)</code></td><td>Region name</td></tr>
+  <tr><td><b>AltName</b></td><td><code>Char(80)</code></td><td>Alternative region name</td></tr>
+</tbody>
+</table>
+
+<br>
+#### GeoPC_NUTS.csv
+Nomenclature of Territorial Units for Statistics (NUTS) standard as provided by the European Commission for statistical purposes.
+
+<table class="table table-bordered table-striped">
+<thead>
+  <tr><th width="150">Field name</th><th width="120">Field type</th><th>Description</th></tr>
+</thead>
+<tbody>
+  <tr><td><b>ISO</b></td><td><code>Char(2)</code></td><td>ISO 3166-1 Country code</td></tr>
+  <tr><td><b>Country</b></td><td><code>Char(50)</code></td><td>Country name</td></tr>
+  <tr><td><b>Code</b></td><td><code>Char(5)</code></td><td>NUTS code</td></tr>
+  <tr><td><b>Level</b></td><td><code>Integer</code></td><td>NUTS Level</td></tr>
+  <tr><td><b>Name</b></td><td><code>Char(80)</code></td><td>Statistical region name</td></tr>
+  <tr><td><b>AltName</b></td><td><code>Char(80)</code></td><td>Alternative statistical region name</td></tr>
+</tbody>
+</table>
+
+<br>
+#### GeoPC_NGA.csv
+NGA Geopolitical codes (Formerly known as FIPS PUB 10-4) standard as published by the U.S. National Geospatial Intelligence Agency. The file contains countries, dependencies, areas of special sovereignty and their principal administrative divisions.
+
+<table class="table table-bordered table-striped">
+<thead>
+  <tr><th width="150">Field name</th><th width="120">Field type</th><th>Description</th></tr>
+</thead>
+<tbody>
+  <tr><td><b>ISO</b></td><td><code>Char(2)</code></td><td>ISO 3166-1 Country code</td></tr>
+  <tr><td><b>NGA</b></td><td><code>Char(2)</code></td><td>NGA Country code</td></tr>
+  <tr><td><b>Country</b></td><td><code>Char(50)</code></td><td>Country name</td></tr>
+  <tr><td><b>Code</b></td><td><code>Char(4)</code></td><td>NGA region code (FIPS)</td></tr>
+  <tr><td><b>Name</b></td><td><code>Char(80)</code></td><td>Administrative division name</td></tr>
+  <tr><td><b>Class</b></td><td><code>Char(60)</code></td><td>Administrative division class</td></tr>
+</tbody>
+</table>
 
