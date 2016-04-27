@@ -1,5 +1,5 @@
 ## gpc-data
-GeoPostcodes public datasets.<br><br>
+GeoPostcodes public datasets. All files are in CSV format, with UTF-8 encoding and ; as delimiter.<br><br>
 
 #### GeoPC_Countries.csv
 Country codes and names with their postal code schemes. This list is based on the cartographic section of the United Nations. 
