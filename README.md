@@ -2,6 +2,7 @@
 GeoPostcodes public datasets.<br><br>
 
 #### GeoPC_Countries
+This file contains all country codes and names with their postal code schemes. The country list is based on the cartographic section of the United Nations. 
 
 <table class="table table-bordered table-striped">
 <thead>
@@ -17,3 +18,7 @@ GeoPostcodes public datasets.<br><br>
   <tr><td><b>Comments</b></td><td><code>Char(30)</code></td><td>Comments</td></tr>
 </tbody>
 </table>
+
+<br>
+#### GeoPC_Admin
+This file contains for each country the official administrative division names included in our datasets. 
