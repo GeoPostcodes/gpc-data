@@ -2,8 +2,7 @@
 GeoPostcodes public datasets.<br><br>
 
 #### GeoPC_Countries
-Country codes and names with their postal code schemes.<br>
-This list is based on the cartographic section of the United Nations. 
+Country codes and names with their postal code schemes. This list is based on the cartographic section of the United Nations. 
 
 <table class="table table-bordered table-striped">
 <thead>
