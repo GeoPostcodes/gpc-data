@@ -21,7 +21,7 @@ Country codes and names with their postal code schemes. This list is based on th
 
 <br>
 #### GeoPC_Admin
-All official administrative division names included in GeoPostcodes datasets. 
+All official administrative division names included in the GeoPostcodes datasets. 
 
 <table class="table table-bordered table-striped">
 <thead>
