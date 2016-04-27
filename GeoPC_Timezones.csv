@@ -1,0 +1,404 @@
+iso;country;olson;utc;dst;zone;zonename
+AD;Andorra;Europe/Andorra;+01:00;+02:00;CET/CEST;Central European Time
+AE;United Arab Emirates;Asia/Dubai;+04:00;+04:00;GST;Arabian Standard Time
+AF;Afghanistan;Asia/Kabul;+04:30;+04:30;AFT;Afghanistan Time
+AG;Antigua and Barbuda;America/Antigua;-04:00;-04:00;AST;Atlantic Standard Time
+AI;Anguilla;America/Anguilla;-04:00;-04:00;AST;Atlantic Standard Time
+AL;Albania;Europe/Tirane;+01:00;+02:00;CET/CEST;Central European Time
+AM;Armenia;Asia/Yerevan;+04:00;+04:00;AMT;Armenia Time
+AO;Angola;Africa/Luanda;+01:00;+01:00;WAT;West Africa Time
+AQ;Antarctica;Antarctica/Macquarie;+11:00;+11:00;;
+AR;Argentina;America/Argentina/Buenos_Aires;-03:00;-03:00;ART;Argentina Time
+AR;Argentina;America/Argentina/Catamarca;-03:00;-03:00;ART;Argentina Time
+AR;Argentina;America/Argentina/Cordoba;-03:00;-03:00;ART;Argentina Time
+AR;Argentina;America/Argentina/Jujuy;-03:00;-03:00;ART;Argentina Time
+AR;Argentina;America/Argentina/La_Rioja;-03:00;-03:00;ART;Argentina Time
+AR;Argentina;America/Argentina/Mendoza;-03:00;-03:00;ART;Argentina Time
+AR;Argentina;America/Argentina/Rio_Gallegos;-03:00;-03:00;ART;Argentina Time
+AR;Argentina;America/Argentina/Salta;-03:00;-03:00;ART;Argentina Time
+AR;Argentina;America/Argentina/San_Juan;-03:00;-03:00;ART;Argentina Time
+AR;Argentina;America/Argentina/San_Luis;-03:00;-03:00;ART;Argentina Time
+AR;Argentina;America/Argentina/Tucuman;-03:00;-03:00;ART;Argentina Time
+AR;Argentina;America/Argentina/Ushuaia;-03:00;-03:00;ART;Argentina Time
+AS;American Samoa;Pacific/Pago_Pago;-11:00;-11:00;SST;Samoa Standard Time
+AT;Austria;Europe/Vienna;+01:00;+02:00;CET/CEST;Central European Time
+AU;Australia;Australia/Adelaide;+09:30;+10:30;ACST;Australian Central Standard Time
+AU;Australia;Australia/Brisbane;+10:00;+10:00;AEST;Australian Eastern Standard Time
+AU;Australia;Australia/Broken_Hill;+09:30;+10:30;ACST;Australian Central Standard Time
+AU;Australia;Australia/Currie;+10:00;+11:00;AEST;Australian Eastern Standard Time
+AU;Australia;Australia/Darwin;+09:30;+09:30;ACST;Australian Central Standard Time
+AU;Australia;Australia/Eucla;+08:45;+08:45;CWST;Central Western Australia Time
+AU;Australia;Australia/Hobart;+10:00;+11:00;AEST;Australian Eastern Standard Time
+AU;Australia;Australia/Lindeman;+10:00;+10:00;AEST;Australian Eastern Standard Time
+AU;Australia;Australia/Lord_Howe;+10:30;+11:00;LHST;Lord Howe Time
+AU;Australia;Australia/Melbourne;+10:00;+11:00;AEST;Australian Eastern Standard Time
+AU;Australia;Australia/Perth;+08:00;+08:00;AWST;Australian Western Standard Time
+AU;Australia;Australia/Sydney;+10:00;+11:00;AEST;Australian Eastern Standard Time
+AW;Aruba;America/Aruba;-04:00;-04:00;AST;Atlantic Standard Time
+AX;Åland;Europe/Mariehamn;+02:00;+03:00;EET/EEST;Eastern European Time
+AZ;Azerbaijan;Asia/Baku;+04:00;+05:00;AZT/AZST;Azerbaijan Time
+BA;Bosnia-Herzegovina;Europe/Sarajevo;+01:00;+02:00;CET/CEST;Central European Time
+BB;Barbados;America/Barbados;-04:00;-04:00;AST;Atlantic Standard Time
+BD;Bangladesh;Asia/Dhaka;+06:00;+06:00;BDST;Bangladesh Standard Time
+BE;Belgium;Europe/Brussels;+01:00;+02:00;CET/CEST;Central European Time
+BF;Burkina Faso;Africa/Ouagadougou;+00:00;+00:00;GMT;Greenwich Mean Time
+BG;Bulgaria;Europe/Sofia;+02:00;+03:00;EET/EEST;Eastern European Time
+BH;Bahrain;Asia/Bahrain;+03:00;+03:00;AST;Arabic Standard Time
+BI;Burundi;Africa/Bujumbura;+02:00;+02:00;CAT;Central Africa Time
+BJ;Benin;Africa/Porto-Novo;+01:00;+01:00;WAT;West Africa Time
+BL;Saint Barthélemy;America/St_Barthelemy;-04:00;-04:00;AST;Atlantic Standard Time
+BM;Bermuda;Atlantic/Bermuda;-04:00;-03:00;AST/ADT;Atlantic Standard Time
+BN;Brunei;Asia/Brunei;+08:00;+08:00;BNT;Brunei Time
+BO;Bolivia;America/La_Paz;-04:00;-04:00;BOT;Bolivia Time
+BQ;Caribbean Netherlands;America/Bonaire;-04:00;-04:00;AST;Caribbean Netherlands
+BR;Brazil;America/Araguaina;-03:00;-03:00;BRT;Brasilia Time
+BR;Brazil;America/Bahia;-03:00;-02:00;BRT;Brasilia Time
+BR;Brazil;America/Belem;-03:00;-03:00;BRT;Brasilia Time
+BR;Brazil;America/Boa_Vista;-04:00;-04:00;AMT;Amazon Time
+BR;Brazil;America/Campo_Grande;-04:00;-03:00;AMT/AMST;Amazon Time
+BR;Brazil;America/Cuiaba;-04:00;-03:00;AMT/AMST;Amazon Time
+BR;Brazil;America/Eirunepe;-04:00;-04:00;AMT;Amazon Time
+BR;Brazil;America/Fortaleza;-03:00;-03:00;BRT;Brasilia Time
+BR;Brazil;America/Maceio;-03:00;-03:00;BRT;Brasilia Time
+BR;Brazil;America/Manaus;-04:00;-04:00;AMT;Amazon Time
+BR;Brazil;America/Noronha;-02:00;-02:00;FNT;Fernando de Noronha Time
+BR;Brazil;America/Porto_Velho;-04:00;-04:00;AMT;Amazon Time
+BR;Brazil;America/Recife;-03:00;-03:00;BRT;Brasilia Time
+BR;Brazil;America/Rio_Branco;-04:00;-04:00;AMT;Amazon Time
+BR;Brazil;America/Santarem;-03:00;-03:00;AMT;Amazon Time
+BR;Brazil;America/Sao_Paulo;-03:00;-02:00;BRT/BRST;Brasilia Time
+BS;Bahamas;America/Nassau;-05:00;-04:00;EST/EDT;Eastern Standard Time
+BT;Bhutan;Asia/Thimphu;+06:00;+06:00;BTT;Bhutan Time
+BV;Bouvet Island;Antarctica/Bouvet;+00:00;+00:00;BVIS;Bouvet Island
+BW;Botswana;Africa/Gaborone;+02:00;+02:00;CAT;Central Africa Time
+BY;Belarus;Europe/Minsk;+03:00;+03:00;EET/EEST;Eastern European Time
+BZ;Belize;America/Belize;-06:00;-06:00;CST;Central Standard Time
+CA;Canada;America/Atikokan;-05:00;-05:00;EST;Eastern Standard Time
+CA;Canada;America/Blanc-Sablon;-04:00;-04:00;AST;Atlantic Standard Time
+CA;Canada;America/Cambridge_Bay;-07:00;-06:00;MST/MDT;Mountain Standard Time
+CA;Canada;America/Coral_Harbour;-05:00;-05:00;EST;Eastern Standard Time
+CA;Canada;America/Dawson;-08:00;-07:00;PST/PDT;Pacific Standard Time
+CA;Canada;America/Dawson_Creek;-07:00;-07:00;MST;Mountain Standard Time
+CA;Canada;America/Edmonton;-07:00;-06:00;MST/MDT;Mountain Standard Time
+CA;Canada;America/Glace_Bay;-04:00;-03:00;AST/ADT;Atlantic Standard Time
+CA;Canada;America/Goose_Bay;-04:00;-03:00;AST/ADT;Atlantic Standard Time
+CA;Canada;America/Halifax;-04:00;-03:00;AST;Atlantic Standard Time
+CA;Canada;America/Inuvik;-07:00;-06:00;MST/MDT;Mountain Standard Time
+CA;Canada;America/Iqaluit;-05:00;-04:00;EST/EDT;Eastern Standard Time
+CA;Canada;America/Moncton;-04:00;-03:00;AST/ADT;Atlantic Standard Time
+CA;Canada;America/Montreal;-05:00;-04:00;EST/EDT;Eastern Standard Time
+CA;Canada;America/Nipigon;-05:00;-04:00;EST/EDT;Eastern Standard Time
+CA;Canada;America/Pangnirtung;-05:00;-04:00;EST/EDT;Eastern Standard Time
+CA;Canada;America/Rainy_River;-06:00;-05:00;CST/CDT;Central Standard Time
+CA;Canada;America/Rankin_Inlet;-06:00;-05:00;CST/CDT;Central Standard Time
+CA;Canada;America/Regina;-06:00;-06:00;CST;Central Standard Time
+CA;Canada;America/Resolute;-06:00;-05:00;EST/EDT;Eastern Standard Time
+CA;Canada;America/St_Johns;-03:30;-02:30;NST/NDT;Newfoundland Time
+CA;Canada;America/Swift_Current;-06:00;-06:00;CST;Central Standard Time
+CA;Canada;America/Thunder_Bay;-05:00;-04:00;EST/EDT;Eastern Standard Time
+CA;Canada;America/Toronto;-05:00;-04:00;EST/EDT;Eastern Standard Time
+CA;Canada;America/Vancouver;-08:00;-07:00;PST/PDT;Pacific Standard Time
+CA;Canada;America/Whitehorse;-08:00;-07:00;PST/PDT;Pacific Standard Time
+CA;Canada;America/Winnipeg;-06:00;-05:00;CST/CDT;Central Standard Time
+CA;Canada;America/Yellowknife;-07:00;-06:00;MST/MDT;Mountain Standard Time
+CC;Cocos (Keeling) Islands;Indian/Cocos;+06:30;+06:30;CCT;Cocos Islands Time
+CD;Congo D.R.;Africa/Kinshasa;+01:00;+01:00;WAT;West Africa Time
+CD;Congo D.R.;Africa/Lubumbashi;+02:00;+02:00;CAT;Central Africa Time
+CF;Central African Rep.;Africa/Bangui;+01:00;+01:00;WAT;West Africa Time
+CG;Congo;Africa/Brazzaville;+01:00;+01:00;WAT;West Africa Time
+CH;Switzerland;Europe/Zurich;+01:00;+02:00;CET/CEST;Central European Time
+CI;Côte d'Ivoire;Africa/Abidjan;+00:00;+00:00;GMT;Greenwich Mean Time
+CK;Cook Islands;Pacific/Rarotonga;-10:00;-10:00;HAST;Hawaii Standard Time
+CL;Chile;America/Santiago;-04:00;-03:00;CLT/CLST;Chile Standard Time
+CL;Chile;Pacific/Easter;-06:00;-05:00;EAST/EASST;Easter Island Standard Time
+CM;Cameroon;Africa/Douala;+01:00;+01:00;WAT;West Africa Time
+CN;China;Asia/Chongqing;+08:00;+08:00;CST;China Standard Time
+CN;China;Asia/Harbin;+08:00;+08:00;CST;China Standard Time
+CN;China;Asia/Kashgar;+08:00;+08:00;CST;China Standard Time
+CN;China;Asia/Shanghai;+08:00;+08:00;CST;China Standard Time
+CN;China;Asia/Urumqi;+08:00;+08:00;CST;China Standard Time
+CO;Colombia;America/Bogota;-05:00;-05:00;COT;Colombia Time
+CR;Costa Rica;America/Costa_Rica;-06:00;-06:00;CST;Central Standard Time
+CU;Cuba;America/Havana;-05:00;-04:00;EST/EDT;Eastern Standard Time
+CV;Cape Verde;Atlantic/Cape_Verde;-01:00;-01:00;CVT;Cape Verde Time
+CW;Curaçao;America/Curacao;-04:00;-04:00;AST;Atlantic Standard Time
+CX;Christmas Island;Indian/Christmas;+07:00;+07:00;LINT;Line Islands Time
+CY;Cyprus;Asia/Nicosia;+02:00;+03:00;EET;Eastern European Time
+CZ;Czech Republic;Europe/Prague;+01:00;+02:00;CET/CEST;Central European Time
+DE;Germany;Europe/Berlin;+01:00;+02:00;CET/CEST;Central European Time
+DJ;Djibouti;Africa/Djibouti;+03:00;+03:00;EAT;East Africa Time
+DK;Denmark;Europe/Copenhagen;+01:00;+02:00;CET/CEST;Central European Time
+DM;Dominica;America/Dominica;-04:00;-04:00;AST;Atlantic Standard Time
+DO;Dominican Republic;America/Santo_Domingo;-04:00;-04:00;AST;Atlantic Standard Time
+DZ;Algeria;Africa/Algiers;+01:00;+01:00;CET;Central European Time
+EC;Ecuador;America/Guayaquil;-05:00;-05:00;ECT;Ecuador Time
+EC;Ecuador;Pacific/Galapagos;-06:00;-06:00;GALT;Galápagos Time
+EE;Estonia;Europe/Tallinn;+02:00;+03:00;EET/EEST;Eastern European Time
+EG;Egypt;Africa/Cairo;+02:00;+02:00;EET/EEST;Eastern European Time
+EH;Western Sahara;Africa/El_Aaiun;+00:00;+00:00;GMT;Greenwich Mean Time
+ER;Eritrea;Africa/Asmara;+03:00;+03:00;EAT;East Africa Time
+ES;Spain;Africa/Ceuta;+01:00;+02:00;CET/CEST;Central European Time
+ES;Spain;Atlantic/Canary;+00:00;+01:00;WET/WEST;Western European Time
+ES;Spain;Europe/Madrid;+01:00;+02:00;CET/CEST;Central European Time
+ET;Ethiopia;Africa/Addis_Ababa;+03:00;+03:00;EAT;East Africa Time
+FI;Finland;Europe/Helsinki;+02:00;+03:00;EET/EEST;Eastern European Time
+FJ;Fiji;Pacific/Fiji;+12:00;+13:00;FJT;Fiji Time
+FK;Falkland Islands;Atlantic/Stanley;-03:00;-03:00;FKT/FKST;Falkland Islands Time
+FM;Micronesia;Pacific/Chuuk;+10:00;+10:00;ChST;Chamorro Standard Time
+FM;Micronesia;Pacific/Kosrae;+11:00;+11:00;KOST;Kosrae Time
+FM;Micronesia;Pacific/Pohnpei;+11:00;+11:00;KOST;Kosrae Time
+FO;Faroe Islands;Atlantic/Faroe;+00:00;+01:00;WET/WEST;Western European Time
+FR;France;Europe/Paris;+01:00;+02:00;CET/CEST;Central European Time
+GA;Gabon;Africa/Libreville;+01:00;+01:00;WAT;West Africa Time
+GB;United Kingdom;Europe/London;+00:00;+01:00;GMT/BST;Greenwich Mean Time
+GD;Grenada;America/Grenada;-04:00;-04:00;AST;Atlantic Standard Time
+GE;Georgia;Asia/Tbilisi;+04:00;+04:00;GET;Georgia Time
+GF;French Guiana;America/Cayenne;-03:00;-03:00;GFT;French Guiana Time
+GG;Guernsey;Europe/Guernsey;+00:00;+01:00;GMT/BST;Greenwich Mean Time
+GH;Ghana;Africa/Accra;+00:00;+00:00;GMT;Greenwich Mean Time
+GI;Gibraltar;Europe/Gibraltar;+01:00;+02:00;CET/CEST;Central European Time
+GL;Greenland;America/Danmarkshavn;+00:00;+00:00;GMT;Greenwich Mean Time
+GL;Greenland;America/Godthab;-03:00;-02:00;WGT/WGST;Central Greenland
+GL;Greenland;America/Scoresbysund;-01:00;+00:00;EGT/EGST;Greenland Time
+GL;Greenland;America/Thule;-04:00;-03:00;AST/ADT;Northwestern Greenland
+GM;Gambia;Africa/Banjul;+00:00;+00:00;GMT;Greenwich Mean Time
+GN;Guinea;Africa/Conakry;+00:00;+00:00;GMT;Greenwich Mean Time
+GP;Guadeloupe;America/Guadeloupe;-04:00;-04:00;AST;Atlantic Standard Time
+GQ;Equatorial Guinea;Africa/Malabo;+01:00;+01:00;WAT;West Africa Time
+GR;Greece;Europe/Athens;+02:00;+03:00;EET/EEST;Eastern European Time
+GS;South Georgia & Sandwich;Atlantic/South_Georgia;-02:00;-02:00;;
+GT;Guatemala;America/Guatemala;-06:00;-06:00;CST;Central Standard Time
+GU;Guam;Pacific/Guam;+10:00;+10:00;ChST;Chamorro Standard Time
+GW;Guinea-Bissau;Africa/Bissau;+00:00;+00:00;GMT;Greenwich Mean Time
+GY;Guyana;America/Guyana;-04:00;-04:00;GYT;Guyana Time
+HK;Hong Kong;Asia/Hong_Kong;+08:00;+08:00;HKT;Hong Kong Time
+HM;Heard & McDonald Islands;Australia/Heard and McDonald;+05:00;+05:00;HIMI;Heard and McDonald Islands
+HN;Honduras;America/Tegucigalpa;-06:00;-06:00;CST;Central Standard Time
+HR;Croatia;Europe/Zagreb;+01:00;+02:00;CET/CEST;Central European Time
+HT;Haiti;America/Port-au-Prince;-05:00;-04:00;EST/EDT;Eastern Standard Time
+HU;Hungary;Europe/Budapest;+01:00;+02:00;CET/CEST;Central European Time
+ID;Indonesia;Asia/Jakarta;+07:00;+07:00;WIB;Western Indonesian Time
+ID;Indonesia;Asia/Jayapura;+09:00;+09:00;EIT;Eastern Indonesian Time
+ID;Indonesia;Asia/Makassar;+08:00;+08:00;CIT;Central Indonesian Time
+ID;Indonesia;Asia/Pontianak;+07:00;+07:00;WIB;Western Indonesian Time
+IE;Ireland;Europe/Dublin;+00:00;+01:00;GMT/IST;Western European Time
+IL;Israel;Asia/Jerusalem;+02:00;+03:00;IST/IDT;Israel Standard Time
+IM;Isle of Man;Europe/Isle_of_Man;+00:00;+01:00;GMT/BST;Greenwich Mean Time
+IN;India;Asia/Kolkata;+05:30;+05:30;IST;Indian Standard Time
+IO;British Indian Ocean Terr.;Indian/Chagos;+06:00;+06:00;;
+IQ;Iraq;Asia/Baghdad;+03:00;+03:00;AST;Arabic Standard Time
+IR;Iran;Asia/Tehran;+03:30;+04:30;IRST;Iran Standard Time
+IS;Iceland;Atlantic/Reykjavik;+00:00;+00:00;GMT;Greenwich Mean Time
+IT;Italy;Europe/Rome;+01:00;+02:00;CET/CEST;Central European Time
+JE;Jersey;Europe/Jersey;+00:00;+01:00;GMT/BST;Greenwich Mean Time
+JM;Jamaica;America/Jamaica;-05:00;-05:00;EST;Eastern Standard Time
+JO;Jordan;Asia/Amman;+03:00;+03:00;AST;Arabia Standard Time
+JP;Japan;Asia/Tokyo;+09:00;+09:00;JST;Japan Standard Time
+KE;Kenya;Africa/Nairobi;+03:00;+03:00;EAT;East Africa Time
+KG;Kyrgyzstan;Asia/Bishkek;+06:00;+06:00;KGT;Kyrgyzstan Time
+KH;Cambodia;Asia/Phnom_Penh;+07:00;+07:00;ICT;SE Asia Standard Time
+KI;Kiribati;Pacific/Enderbury;+13:00;+13:00;PHOT;Phoenix Island Time
+KI;Kiribati;Pacific/Kiritimati;+14:00;+14:00;LINT;Line Islands Time
+KI;Kiribati;Pacific/Tarawa;+12:00;+12:00;GILT;Gilbert Island Time
+KM;Comoros;Indian/Comoro;+03:00;+03:00;EAT;East Africa Time
+KN;Saint Kitts and Nevis;America/St_Kitts;-04:00;-04:00;AST;Atlantic Standard Time
+KP;North Korea;Asia/Pyongyang;+09:00;+09:00;KST;Korea Standard Time
+KR;South Korea;Asia/Seoul;+09:00;+09:00;KST;Korea Standard Time
+KW;Kuwait;Asia/Kuwait;+03:00;+03:00;AST;Arabic Standard Time
+KY;Cayman Islands;America/Cayman;-05:00;-05:00;EST;Eastern Standard Time
+KZ;Kazakhstan;Asia/Almaty;+06:00;+06:00;ALMT;Eastern Kazakhstan Time
+KZ;Kazakhstan;Asia/Aqtau;+05:00;+05:00;AQTT;Western Kazakhstan Time
+KZ;Kazakhstan;Asia/Aqtobe;+05:00;+05:00;AQTT;Western Kazakhstan Time
+KZ;Kazakhstan;Asia/Oral;+05:00;+05:00;ORAT;Western Kazakhstan Time
+KZ;Kazakhstan;Asia/Qyzylorda;+06:00;+06:00;QYZT;Eastern Kazakhstan Time
+LA;Laos;Asia/Vientiane;+07:00;+07:00;ICT;SE Asia Standard Time
+LB;Lebanon;Asia/Beirut;+02:00;+03:00;EET;Eastern European Time
+LC;Saint Lucia;America/St_Lucia;-04:00;-04:00;AST;Atlantic Standard Time
+LI;Liechtenstein;Europe/Vaduz;+01:00;+02:00;CET/CEST;Central European Time
+LK;Sri Lanka;Asia/Colombo;+05:30;+05:30;LKT;Sri Lanka Time
+LR;Liberia;Africa/Monrovia;+00:00;+00:00;GMT;Greenwich Mean Time
+LS;Lesotho;Africa/Maseru;+02:00;+02:00;SAST;South African Standard Time
+LT;Lithuania;Europe/Vilnius;+02:00;+03:00;EET/EEST;Eastern European Time
+LU;Luxembourg;Europe/Luxembourg;+01:00;+02:00;CET/CEST;Central European Time
+LV;Latvia;Europe/Riga;+02:00;+03:00;EET/EEST;Eastern European Time
+LY;Libya;Africa/Tripoli;+02:00;+02:00;EET;Eastern European Time
+MA;Morocco;Africa/Casablanca;+00:00;+01:00;WET;Western European Time
+MC;Monaco;Europe/Monaco;+01:00;+02:00;CET/CEST;Central European Time
+MD;Moldova;Europe/Chisinau;+02:00;+03:00;EET/EEST;Eastern European Time
+ME;Montenegro;Europe/Podgorica;+01:00;+02:00;CET/CEST;Central European Time
+MF;Saint Martin;America/Marigot;-04:00;-04:00;AST;Atlantic Standard Time
+MG;Madagascar;Indian/Antananarivo;+03:00;+03:00;EAT;East Africa Time
+MH;Marshall Islands;Pacific/Kwajalein;+12:00;+12:00;MHT;Marshall Time
+MH;Marshall Islands;Pacific/Majuro;+12:00;+12:00;MHT;Marshall Time
+MK;Macedonia;Europe/Skopje;+01:00;+02:00;CET/CEST;Central European Time
+ML;Mali;Africa/Bamako;+00:00;+00:00;GMT;Greenwich Mean Time
+MM;Burma;Asia/Rangoon;+06:30;+06:30;MMT;Myanmar Standard Time
+MN;Mongolia;Asia/Choibalsan;+08:00;+08:00;CHOT/CHOST;Choibalsan Standard Time
+MN;Mongolia;Asia/Hovd;+07:00;+07:00;HOVT/HOVST;Hovd Standard Time
+MN;Mongolia;Asia/Ulaanbaatar;+08:00;+08:00;ULAT/ULAST;Ulaanbaatar Time
+MO;Macau;Asia/Macau;+08:00;+08:00;CT;Macau Time
+MP;Northern Mariana Islands;Pacific/Saipan;+10:00;+10:00;ChST;Chamorro Standard Time
+MQ;Martinique;America/Martinique;-04:00;-04:00;AST;Atlantic Standard Time
+MR;Mauritania;Africa/Nouakchott;+00:00;+00:00;GMT;Greenwich Mean Time
+MS;Montserrat;America/Montserrat;-04:00;-04:00;AST;Atlantic Standard Time
+MT;Malta;Europe/Malta;+01:00;+02:00;CET/CEST;Central European Time
+MU;Mauritius;Indian/Mauritius;+04:00;+04:00;MUT;Mauritius Time
+MV;Maldives;Indian/Maldives;+05:00;+05:00;MVT;Maldives Time
+MW;Malawi;Africa/Blantyre;+02:00;+02:00;CAT;Central Africa Time
+MX;Mexico;America/Bahia_Banderas;-06:00;-05:00;CST/CDT;Central Zone
+MX;Mexico;America/Cancun;-06:00;-05:00;CST/CDT;Central Zone
+MX;Mexico;America/Chihuahua;-07:00;-06:00;MST/MDT;Pacific Zone
+MX;Mexico;America/Hermosillo;-07:00;-07:00;MST;Pacific Zone
+MX;Mexico;America/Matamoros;-06:00;-05:00;CST/CDT;Central Zone
+MX;Mexico;America/Mazatlan;-07:00;-06:00;MST/MDT;Pacific Zone
+MX;Mexico;America/Merida;-06:00;-05:00;CST/CDT;Central Zone
+MX;Mexico;America/Mexico_City;-06:00;-05:00;CST/CDT;Central Zone
+MX;Mexico;America/Monterrey;-06:00;-05:00;CST/CDT;Central Zone
+MX;Mexico;America/Ojinaga;-07:00;-06:00;MST/MDT;Pacific Zone
+MX;Mexico;America/Santa_Isabel;-08:00;-07:00;PST/PDT;Northwest Zone
+MX;Mexico;America/Tijuana;-08:00;-07:00;PST/PDT;Northwest Zone
+MY;Malaysia;Asia/Kuala_Lumpur;+08:00;+08:00;MYT;Malaysian Standard Time
+MY;Malaysia;Asia/Kuching;+08:00;+08:00;MYT;Malaysian Standard Time
+MZ;Mozambique;Africa/Maputo;+02:00;+02:00;CAT;Central Africa Time
+NA;Namibia;Africa/Windhoek;+01:00;+02:00;WAT/WAST;West Africa Time
+NC;New Caledonia;Pacific/Noumea;+11:00;+11:00;NCT;New Caledonia Time
+NE;Niger;Africa/Niamey;+01:00;+01:00;WAT;West Africa Time
+NF;Norfolk Island;Pacific/Norfolk;+11:30;+11:30;NFT;Norfolk Time
+NG;Nigeria;Africa/Lagos;+01:00;+01:00;WAT;West Africa Time
+NI;Nicaragua;America/Managua;-06:00;-06:00;CST;Central Standard Time
+NL;Netherlands;Europe/Amsterdam;+01:00;+02:00;CET/CEST;Central European Time
+NO;Norway;Europe/Oslo;+01:00;+02:00;CET/CEST;Central European Time
+NP;Nepal;Asia/Kathmandu;+05:45;+05:45;NPT;Nepal Time
+NR;Nauru;Pacific/Nauru;+12:00;+12:00;NRT;Nauru Time
+NU;Niue;Pacific/Niue;-11:00;-11:00;NUT;Niue Time
+NZ;New Zealand;Pacific/Auckland;+12:00;+13:00;NZST/NZDT;New Zealand Standard Time
+NZ;New Zealand;Pacific/Chatham;+12:45;+13:45;CHAST/CHAD;Chatham Standard Time
+OM;Oman;Asia/Muscat;+04:00;+04:00;GST;Arabian Standard Time
+PA;Panama;America/Panama;-05:00;-05:00;EST;Eastern Standard Time
+PE;Peru;America/Lima;-05:00;-05:00;PET;Peru Time
+PF;French Polynesia;Pacific/Gambier;-09:00;-09:00;GAMT;Gambier Time
+PF;French Polynesia;Pacific/Marquesas;-09:30;-09:30;MART;Marquesas Time
+PF;French Polynesia;Pacific/Tahiti;-10:00;-10:00;TAHT;Tahiti Time
+PG;Papua New Guinea;Pacific/Port_Moresby;+10:00;+10:00;PGT;Papua New Guinea Time
+PH;Philippines;Asia/Manila;+08:00;+08:00;PHT;Philippines Time
+PK;Pakistan;Asia/Karachi;+05:00;+05:00;PKT/PKST;Pakistan Standard Time
+PL;Poland;Europe/Warsaw;+01:00;+02:00;CET/CEST;Central European Time
+PM;Saint Pierre & Miquelon;America/Miquelon;-03:00;-02:00;PMST/PMDT;St Pierre and Miquelon Time
+PN;Pitcairn Islands;Pacific/Pitcairn;-08:00;-08:00;PST;Pitcairn Standard Time
+PR;Puerto Rico;America/Puerto_Rico;-04:00;-04:00;AST;Atlantic Standard Time
+PS;Gaza Strip;Asia/Gaza;+02:00;+03:00;EET;Eastern European Time
+PT;Portugal;Atlantic/Azores;-01:00;+00:00;AZOT/AZOST;Azores Standard Time
+PT;Portugal;Atlantic/Madeira;+00:00;+01:00;WET/WEST;Azores Standard Time
+PT;Portugal;Europe/Lisbon;+00:00;+01:00;WET/WEST;Western European Time
+PW;Palau;Pacific/Palau;+09:00;+09:00;PWT;Palau Time
+PY;Paraguay;America/Asuncion;-04:00;-03:00;PYT/PYST;Paraguay Standard Time
+QA;Qatar;Asia/Qatar;+03:00;+03:00;AST;Arabic Standard Time
+RE;Réunion;Indian/Reunion;+04:00;+04:00;RET;Reunion Time
+RO;Romania;Europe/Bucharest;+02:00;+03:00;EET/EEST;Eastern European Time
+RS;Serbia;Europe/Belgrade;+01:00;+02:00;CET/CEST;Central European Time
+RU;Russia;Asia/Anadyr;+12:00;+12:00;ANAT/ANAST;Anadyr Time
+RU;Russia;Asia/Irkutsk;+09:00;+09:00;IRKT/IRKST;Irkutsk Time
+RU;Russia;Asia/Kamchatka;+12:00;+12:00;PETT/PETST;Kamchatka Time
+RU;Russia;Asia/Krasnoyarsk;+08:00;+08:00;KRAT/KRAST;Krasnoyarsk Time
+RU;Russia;Asia/Magadan;+12:00;+12:00;MAGT/MAGST;Magadan Time
+RU;Russia;Asia/Novokuznetsk;+07:00;+07:00;NOVT/NOVST;Novosibirsk Time
+RU;Russia;Asia/Novosibirsk;+07:00;+07:00;NOVT/NOVST;Novosibirsk Time
+RU;Russia;Asia/Omsk;+07:00;+07:00;OMST/OMSST;Omsk Time
+RU;Russia;Asia/Sakhalin;+11:00;+11:00;SAKT/SAKST;Sakhalin Time
+RU;Russia;Asia/Vladivostok;+11:00;+11:00;VLAT/VLAST;Vladivostok Time
+RU;Russia;Asia/Yakutsk;+10:00;+10:00;YAKT/YAKST;Yakutsk Time
+RU;Russia;Asia/Yekaterinburg;+06:00;+06:00;YEKT/YEKST;Yekaterinburg Time
+RU;Russia;Europe/Kaliningrad;+03:00;+03:00;EET/EEST;Eastern European Time
+RU;Russia;Europe/Moscow;+04:00;+04:00;MSK/MSD;Moscow Standard Time
+RU;Russia;Europe/Samara;+04:00;+04:00;SAMT/SAMST;Samara Time
+RU;Russia;Europe/Volgograd;+04:00;+04:00;VOLT/VOLST;Moscow Standard Time
+RW;Rwanda;Africa/Kigali;+02:00;+02:00;CAT;Central Africa Time
+SA;Saudi Arabia;Asia/Riyadh;+03:00;+03:00;AST;Arabic Standard Time
+SB;Solomon Islands;Pacific/Guadalcanal;+11:00;+11:00;SBT;Solomon Islands Time
+SC;Seychelles;Indian/Mahe;+04:00;+04:00;SCT;Seychelles Time
+SD;Sudan;Africa/Khartoum;+03:00;+03:00;EAT;East Africa Time
+SE;Sweden;Europe/Stockholm;+01:00;+02:00;CET/CEST;Central European Time
+SG;Singapore;Asia/Singapore;+08:00;+08:00;SGT;Singapore Standard Time
+SH;Saint Helena;Atlantic/St_Helena;+00:00;+00:00;GMT;Greenwich Mean Time
+SI;Slovenia;Europe/Ljubljana;+01:00;+02:00;CET/CEST;Central European Time
+SJ;Svalbard and Jan Mayen;Arctic/Longyearbyen;+01:00;+02:00;CET/CEST;Central European Time
+SK;Slovakia;Europe/Bratislava;+01:00;+02:00;CET/CEST;Central European Time
+SL;Sierra Leone;Africa/Freetown;+00:00;+00:00;GMT;Greenwich Mean Time
+SM;San Marino;Europe/San_Marino;+01:00;+02:00;CET/CEST;Central European Time
+SN;Senegal;Africa/Dakar;+00:00;+00:00;GMT;Greenwich Mean Time
+SO;Somalia;Africa/Mogadishu;+03:00;+03:00;EAT;East Africa Time
+SR;Suriname;America/Paramaribo;-03:00;-03:00;SRT;Suriname Time
+SS;South Sudan;Africa/Juba;+03:00;+03:00;EAT;East Africa Time
+ST;Sao Tome and Principe;Africa/Sao_Tome;+00:00;+00:00;GMT;Greenwich Mean Time
+SV;El Salvador;America/El_Salvador;-06:00;-06:00;CST;Central Standard Time
+SX;Sint Maarten;America/Sint-Maarten;-04:00;-04:00;AST;Sint-Maarten
+SY;Syria;Asia/Damascus;+02:00;+03:00;EET;Eastern European Time
+SZ;Swaziland;Africa/Mbabane;+02:00;+02:00;SAST;South African Standard Time
+TC;Turks and Caicos Islands;America/Grand_Turk;-05:00;-04:00;EST/EDT;Eastern Standard Time
+TD;Chad;Africa/Ndjamena;+01:00;+01:00;WAT;West Africa Time
+TF;French Southern Territories;Indian/Kerguelen;+05:00;+05:00;TFT;French Southern and Antarctic Time
+TG;Togo;Africa/Lome;+00:00;+00:00;GMT;Greenwich Mean Time
+TH;Thailand;Asia/Bangkok;+07:00;+07:00;ICT;SE Asia Standard Time
+TJ;Tajikistan;Asia/Dushanbe;+05:00;+05:00;TJT;Tajikistan Time
+TK;Tokelau;Pacific/Fakaofo;+14:00;+14:00;TKT;Tokelau Time
+TL;Timor-Leste;Asia/Dili;+09:00;+09:00;TLT;Timor-Leste Time
+TM;Turkmenistan;Asia/Ashgabat;+05:00;+05:00;TMT;Turkmenistan Time
+TN;Tunisia;Africa/Tunis;+01:00;+01:00;CET/CEST;Central European Time
+TO;Tonga;Pacific/Tongatapu;+13:00;+13:00;TOT;Tonga Time
+TR;Turkey;Europe/Istanbul;+02:00;+03:00;EET/EEST;Eastern European Time
+TT;Trinidad and Tobago;America/Port_of_Spain;-04:00;-04:00;AST;Atlantic Standard Time
+TV;Tuvalu;Pacific/Funafuti;+12:00;+12:00;TVT;Tuvalu Time
+TW;Taiwan;Asia/Taipei;+08:00;+08:00;CST;China Standard Time
+TZ;Tanzania;Africa/Dar_es_Salaam;+03:00;+03:00;EAT;East Africa Time
+UA;Ukraine;Europe/Kiev;+02:00;+03:00;EET/EEST;Eastern European Time
+UA;Ukraine;Europe/Simferopol;+02:00;+03:00;EET/EEST;Eastern European Time
+UA;Ukraine;Europe/Uzhgorod;+02:00;+03:00;EET/EEST;Eastern European Time
+UA;Ukraine;Europe/Zaporozhye;+02:00;+03:00;EET/EEST;Eastern European Time
+UG;Uganda;Africa/Kampala;+03:00;+03:00;EAT;East Africa Time
+UM;Minor Outlying Islands;Pacific/Johnston;-10:00;-10:00;HAST;Hawaii Standard Time
+UM;Minor Outlying Islands;Pacific/Midway;-11:00;-11:00;SST;Samoa Standard Time
+UM;Minor Outlying Islands;Pacific/Wake;+12:00;+12:00;;
+US;United States;America/Adak;-10:00;-09:00;HAST/HADT;Hawaii Standard Time
+US;United States;America/Anchorage;-09:00;-08:00;AKST/AKDT;Alaska Standard Time
+US;United States;America/Boise;-07:00;-06:00;MST/MDT;Mountain Standard Time
+US;United States;America/Chicago;-06:00;-05:00;CST/CDT;Central Standard Time
+US;United States;America/Denver;-07:00;-06:00;MST/MDT;Mountain Standard Time
+US;United States;America/Detroit;-05:00;-04:00;EST/EDT;Eastern Standard Time
+US;United States;America/Indiana/Indianapolis;-05:00;-04:00;EST/EDT;Eastern Standard Time
+US;United States;America/Indiana/Knox;-06:00;-05:00;CST/CDT;Central Standard Time
+US;United States;America/Indiana/Marengo;-05:00;-04:00;EST/EDT;Eastern Standard Time
+US;United States;America/Indiana/Petersburg;-05:00;-04:00;EST/EDT;Eastern Standard Time
+US;United States;America/Indiana/Tell_City;-06:00;-05:00;CST/CDT;Central Standard Time
+US;United States;America/Indiana/Vevay;-05:00;-04:00;EST/EDT;Eastern Standard Time
+US;United States;America/Indiana/Vincennes;-05:00;-04:00;EST/EDT;Eastern Standard Time
+US;United States;America/Indiana/Winamac;-05:00;-04:00;EST/EDT;Eastern Standard Time
+US;United States;America/Juneau;-09:00;-08:00;AKST/AKDT;Alaska Standard Time
+US;United States;America/Kentucky/Louisville;-05:00;-04:00;EST/EDT;Eastern Standard Time
+US;United States;America/Kentucky/Monticello;-05:00;-04:00;EST/EDT;Eastern Standard Time
+US;United States;America/Los_Angeles;-08:00;-07:00;PST/PDT;Pacific Standard Time
+US;United States;America/Menominee;-06:00;-05:00;CST/CDT;Central Standard Time
+US;United States;America/New_York;-05:00;-04:00;EST/EDT;Eastern Standard Time
+US;United States;America/Nome;-09:00;-08:00;AKST/AKDT;Alaska Standard Time
+US;United States;America/North_Dakota/Beulah;-06:00;-05:00;CST/CDT;Central Standard Time
+US;United States;America/North_Dakota/Center;-06:00;-05:00;CST/CDT;Central Standard Time
+US;United States;America/North_Dakota/New_Salem;-06:00;-05:00;CST/CDT;Central Standard Time
+US;United States;America/Phoenix;-07:00;-07:00;MST;Mountain Standard Time
+US;United States;America/Yakutat;-09:00;-08:00;AKST/AKDT;Alaska Standard Time
+US;United States;Pacific/Honolulu;-10:00;-10:00;HAST;Hawaii Standard Time
+UY;Uruguay;America/Montevideo;-03:00;-02:00;UYT/UYST;Uruguay Standard Time
+UZ;Uzbekistan;Asia/Samarkand;+05:00;+05:00;UZT;Uzbekistan Time
+UZ;Uzbekistan;Asia/Tashkent;+05:00;+05:00;UZT;Uzbekistan Time
+VA;Vatican;Europe/Vatican;+01:00;+02:00;CET/CEST;Central European Time
+VC;St Vincent & the Grenadines;America/St_Vincent;-04:00;-04:00;AST;Atlantic Standard Time
+VE;Venezuela;America/Caracas;-04:30;-04:30;VET;Venezuelan Standard Time
+VG;British Virgin Islands;America/Tortola;-04:00;-04:00;AST;Atlantic Standard Time
+VI;U.S. Virgin Islands;America/St_Thomas;-04:00;-04:00;AST;Atlantic Standard Time
+VN;Vietnam;Asia/Ho_Chi_Minh;+07:00;+07:00;ICT;SE Asia Standard Time
+VU;Vanuatu;Pacific/Efate;+11:00;+11:00;VUT;Vanuatu Time
+WF;Wallis and Futuna;Pacific/Wallis;+12:00;+12:00;WFT;Wallis et Futuna Time
+WS;Samoa;Pacific/Apia;+13:00;+14:00;WST;Samoa Time
+YE;Yemen;Asia/Aden;+03:00;+03:00;AST;Arabic Standard Time
+YT;Mayotte;Indian/Mayotte;+03:00;+03:00;EAT;East Africa Time
+ZA;South Africa;Africa/Johannesburg;+02:00;+02:00;SAST;South African Standard Time
+ZM;Zambia;Africa/Lusaka;+02:00;+02:00;CAT;Central Africa Time
+ZW;Zimbabwe;Africa/Harare;+02:00;+02:00;CAT;Central Africa Time

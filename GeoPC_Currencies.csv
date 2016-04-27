@@ -1,0 +1,247 @@
+iso;country;currency;code;symbol;numcode;decimals
+AD;Andorra;Euro;EUR;€;978;2
+AE;United Arab Emirates;UAE Dirham;AED;د.إ;784;2
+AF;Afghanistan;Afghani;AFN;؋;971;2
+AG;Antigua and Barbuda;East Caribbean Dollar;XCD;$;951;2
+AI;Anguilla;East Caribbean Dollar;XCD;$;951;2
+AL;Albania;Lek;ALL;Lek;008;2
+AM;Armenia;Armenian Dram;AMD;դր;051;2
+AO;Angola;Kwanza;AOA;Kz;973;2
+AR;Argentina;Argentine Peso;ARS;$;032;2
+AS;American Samoa;US Dollar;USD;$;840;2
+AT;Austria;Euro;EUR;€;978;2
+AU;Australia;Australian Dollar;AUD;$;036;2
+AW;Aruba;Aruban Florin;AWG;ƒ;533;2
+AX;Åland;Euro;EUR;€;978;2
+AZ;Azerbaijan;Azerbaijanian Manat;AZN;ман;944;2
+BA;Bosnia-Herzegovina;Convertible Mark;BAM;KM;977;2
+BB;Barbados;Barbados Dollar;BBD;$;052;2
+BD;Bangladesh;Taka;BDT;৳;050;2
+BE;Belgium;Euro;EUR;€;978;2
+BF;Burkina Faso;CFA Franc BCEAO;XOF;CFA;952;0
+BG;Bulgaria;Bulgarian Lev;BGN;лв;975;2
+BH;Bahrain;Bahraini Dinar;BHD;.د.ب;048;3
+BI;Burundi;Burundi Franc;BIF;FBu;108;0
+BJ;Benin;CFA Franc BCEAO;XOF;CFA;952;0
+BL;Saint Barthélemy;Euro;EUR;€;978;2
+BM;Bermuda;Bermudian Dollar;BMD;$;060;2
+BN;Brunei;Brunei Dollar;BND;$;096;2
+BO;Bolivia;Mvdol;BOV;Bs.;984;2
+BQ;Caribbean Netherlands;US Dollar;USD;$;840;2
+BR;Brazil;Brazilian Real;BRL;R$;986;2
+BS;Bahamas;Bahamian Dollar;BSD;$;044;2
+BT;Bhutan;Ngultrum;BTN;Nu.;064;2
+BV;Bouvet Island;Norwegian Krone;NOK;kr;578;2
+BW;Botswana;Pula;BWP;P;072;2
+BY;Belarus;Belarussian Ruble;BYR;p.;974;0
+BZ;Belize;Belize Dollar;BZD;BZ$;084;2
+CA;Canada;Canadian Dollar;CAD;$;124;2
+CC;Cocos (Keeling) Islands;Australian Dollar;AUD;$;036;2
+CD;Congo D.R.;Congolese Franc;CDF;CF;976;2
+CF;Central African Rep.;CFA Franc BEAC;XAF;CFA;950;0
+CG;Congo;CFA Franc BEAC;XAF;CFA;950;0
+CH;Switzerland;Swiss Franc;CHF;CHF;756;2
+CI;Côte d'Ivoire;CFA Franc BCEAO;XOF;CFA;952;0
+CK;Cook Islands;New Zealand Dollar;NZD;$;554;2
+CL;Chile;Unidades de fomento;CLF;CLP$;990;0
+CM;Cameroon;CFA Franc BEAC;XAF;CFA;950;0
+CN;China;Yuan Renminbi;CNY;¥;156;2
+CO;Colombia;Colombian Peso;COP;$;170;2
+CR;Costa Rica;Costa Rican Colon;CRC;₡;188;2
+CU;Cuba;Peso Convertible;CUC;CUC$;931;2
+CV;Cape Verde;Cape Verde Escudo;CVE;Esc;132;2
+CW;Curaçao;Netherlands Antillean Guilder;ANG;ƒ;532;2
+CX;Christmas Island;Australian Dollar;AUD;$;036;2
+CY;Cyprus;Euro;EUR;€;978;2
+CZ;Czech Republic;Czech Koruna;CZK;Kč;203;2
+DE;Germany;Euro;EUR;€;978;2
+DJ;Djibouti;Djibouti Franc;DJF;DF;262;0
+DK;Denmark;Danish Krone;DKK;kr;208;2
+DM;Dominica;East Caribbean Dollar;XCD;$;951;2
+DO;Dominican Republic;Dominican Peso;DOP;RD$;214;2
+DZ;Algeria;Algerian Dinar;DZD;دج;012;2
+EC;Ecuador;US Dollar;USD;$;840;2
+EE;Estonia;Euro;EUR;€;978;2
+EG;Egypt;Egyptian Pound;EGP;£;818;2
+EH;Western Sahara;Moroccan Dirham;MAD;د.م.;504;2
+ER;Eritrea;Nakfa;ERN;Nfk;232;2
+ES;Spain;Euro;EUR;€;978;2
+ET;Ethiopia;Ethiopian Birr;ETB;Br;230;2
+FI;Finland;Euro;EUR;€;978;2
+FJ;Fiji;Fiji Dollar;FJD;$;242;2
+FK;Falkland Islands;Falkland Islands Pound;FKP;£;238;2
+FM;Micronesia;US Dollar;USD;$;840;2
+FO;Faroe Islands;Danish Krone;DKK;kr;208;2
+FR;France;Euro;EUR;€;978;2
+GA;Gabon;CFA Franc BEAC;XAF;CFA;950;0
+GB;United Kingdom;Pound Sterling;GBP;£;826;2
+GD;Grenada;East Caribbean Dollar;XCD;$;951;2
+GE;Georgia;Lari;GEL;ლ;981;2
+GF;French Guiana;Euro;EUR;€;978;2
+GG;Guernsey;Pound Sterling;GBP;£;826;2
+GH;Ghana;Ghana Cedi;GHS;GH¢;936;2
+GI;Gibraltar;Gibraltar Pound;GIP;£;292;2
+GL;Greenland;Danish Krone;DKK;kr;208;2
+GM;Gambia;Dalasi;GMD;D;270;2
+GN;Guinea;Guinea Franc;GNF;FG;324;0
+GP;Guadeloupe;Euro;EUR;€;978;2
+GQ;Equatorial Guinea;CFA Franc BEAC;XAF;CFA;950;0
+GR;Greece;Euro;EUR;€;978;2
+GT;Guatemala;Quetzal;GTQ;Q;320;2
+GU;Guam;US Dollar;USD;$;840;2
+GW;Guinea-Bissau;CFA Franc BCEAO;XOF;CFA;952;0
+GY;Guyana;Guyana Dollar;GYD;$;328;2
+HK;Hong Kong;Hong Kong Dollar;HKD;$;344;2
+HM;Heard & McDonald Islands;Australian Dollar;AUD;$;036;2
+HN;Honduras;Lempira;HNL;L;340;2
+HR;Croatia;Croatian Kuna;HRK;kn;191;2
+HT;Haiti;Gourde;HTG;G;332;2
+HU;Hungary;Forint;HUF;Ft;348;2
+ID;Indonesia;Rupiah;IDR;Rp;360;2
+IE;Ireland;Euro;EUR;€;978;2
+IL;Israel;New Israeli Sheqel;ILS;₪;376;2
+IM;Isle of Man;Pound Sterling;GBP;£;826;2
+IN;India;Indian Rupee;INR;₹;356;2
+IO;British Indian Ocean Terr.;US Dollar;USD;$;840;2
+IQ;Iraq;Iraqi Dinar;IQD;د.ع;368;3
+IR;Iran;Iranian Rial;IRR;﷼;364;2
+IS;Iceland;Iceland Krona;ISK;kr;352;0
+IT;Italy;Euro;EUR;€;978;2
+JE;Jersey;Pound Sterling;GBP;£;826;2
+JM;Jamaica;Jamaican Dollar;JMD;J$;388;2
+JO;Jordan;Jordanian Dinar;JOD;JD;400;3
+JP;Japan;Yen;JPY;¥;392;0
+KE;Kenya;Kenyan Shilling;KES;Ksh;404;2
+KG;Kyrgyzstan;Som;KGS;лв;417;2
+KH;Cambodia;Riel;KHR;៛;116;2
+KI;Kiribati;Australian Dollar;AUD;$;036;2
+KM;Comoros;Comoro Franc;KMF;CF;174;0
+KN;Saint Kitts and Nevis;East Caribbean Dollar;XCD;$;951;2
+KP;North Korea;North Korean Won;KPW;₩;408;2
+KR;South Korea;Won;KRW;₩;410;0
+KW;Kuwait;Kuwaiti Dinar;KWD;د.ك;414;3
+KY;Cayman Islands;Cayman Islands Dollar;KYD;$;136;2
+KZ;Kazakhstan;Tenge;KZT;лв;398;2
+LA;Laos;Kip;LAK;₭;418;2
+LB;Lebanon;Lebanese Pound;LBP;£;422;2
+LC;Saint Lucia;East Caribbean Dollar;XCD;$;951;2
+LI;Liechtenstein;Swiss Franc;CHF;CHF;756;2
+LK;Sri Lanka;Sri Lanka Rupee;LKR;₨;144;2
+LR;Liberia;Liberian Dollar;LRD;$;430;2
+LS;Lesotho;Loti;LSL;M;426;2
+LT;Lithuania;Lithuanian Litas;LTL;Lt;440;2
+LU;Luxembourg;Euro;EUR;€;978;2
+LV;Latvia;Euro;EUR;€;978;2
+LY;Libya;Libyan Dinar;LYD;ل.د;434;3
+MA;Morocco;Moroccan Dirham;MAD;د.م.;504;2
+MC;Monaco;Euro;EUR;€;978;2
+MD;Moldova;Moldovan Leu;MDL;L;498;2
+ME;Montenegro;Euro;EUR;€;978;2
+MF;Saint Martin;Euro;EUR;€;978;2
+MG;Madagascar;Malagasy Ariary;MGA;Ar;969;2
+MH;Marshall Islands;US Dollar;USD;$;840;2
+MK;Macedonia;Denar;MKD;ден;807;2
+ML;Mali;CFA Franc BCEAO;XOF;CFA;952;0
+MM;Burma;Kyat;MMK;K;104;2
+MN;Mongolia;Tugrik;MNT;₮;496;2
+MO;Macau;Pataca;MOP;MOP$;446;2
+MP;Northern Mariana Islands;US Dollar;USD;$;840;2
+MQ;Martinique;Euro;EUR;€;978;2
+MR;Mauritania;Ouguiya;MRO;UM;478;2
+MS;Montserrat;East Caribbean Dollar;XCD;$;951;2
+MT;Malta;Euro;EUR;€;978;2
+MU;Mauritius;Mauritius Rupee;MUR;₨;480;2
+MV;Maldives;Rufiyaa;MVR;Rf.;462;2
+MW;Malawi;Kwacha;MWK;MK;454;2
+MX;Mexico;Mexican Peso;MXN;$;484;2
+MY;Malaysia;Malaysian Ringgit;MYR;RM;458;2
+MZ;Mozambique;Mozambique Metical;MZN;MT;943;2
+NA;Namibia;Namibia Dollar;NAD;$;516;2
+NC;New Caledonia;CFP Franc;XPF;CFP;953;0
+NE;Niger;CFA Franc BCEAO;XOF;CFA;952;0
+NF;Norfolk Island;Australian Dollar;AUD;$;036;2
+NG;Nigeria;Naira;NGN;₦;566;2
+NI;Nicaragua;Cordoba Oro;NIO;C$;558;2
+NL;Netherlands;Euro;EUR;€;978;2
+NO;Norway;Norwegian Krone;NOK;kr;578;2
+NP;Nepal;Nepalese Rupee;NPR;₨;524;2
+NR;Nauru;Australian Dollar;AUD;$;036;2
+NU;Niue;New Zealand Dollar;NZD;$;554;2
+NZ;New Zealand;New Zealand Dollar;NZD;$;554;2
+OM;Oman;Rial Omani;OMR;﷼;512;3
+PA;Panama;Balboa;PAB;B/.;590;2
+PE;Peru;Nuevo Sol;PEN;S/.;604;2
+PF;French Polynesia;CFP Franc;XPF;CFP;953;0
+PG;Papua New Guinea;Kina;PGK;K;598;2
+PH;Philippines;Philippine Peso;PHP;₱;608;2
+PK;Pakistan;Pakistan Rupee;PKR;₨;586;2
+PL;Poland;Zloty;PLN;zł;985;2
+PM;Saint Pierre & Miquelon;Euro;EUR;€;978;2
+PN;Pitcairn Islands;New Zealand Dollar;NZD;$;554;2
+PR;Puerto Rico;US Dollar;USD;$;840;2
+PT;Portugal;Euro;EUR;€;978;2
+PW;Palau;US Dollar;USD;$;840;2
+PY;Paraguay;Guarani;PYG;Gs;600;0
+QA;Qatar;Qatari Rial;QAR;﷼;634;2
+RE;Réunion;Euro;EUR;€;978;2
+RO;Romania;New Romanian Leu;RON;lei;946;2
+RS;Serbia;Serbian Dinar;RSD;Дин.;941;2
+RU;Russia;Russian Ruble;RUB;руб;643;2
+RW;Rwanda;Rwanda Franc;RWF;FRw;646;0
+SA;Saudi Arabia;Saudi Riyal;SAR;﷼;682;2
+SB;Solomon Islands;Solomon Islands Dollar;SBD;$;090;2
+SC;Seychelles;Seychelles Rupee;SCR;₨;690;2
+SD;Sudan;Sudanese Pound;SDG;£;938;2
+SE;Sweden;Swedish Krona;SEK;kr;752;2
+SG;Singapore;Singapore Dollar;SGD;$;702;2
+SH;Saint Helena;Saint Helena Pound;SHP;£;654;2
+SI;Slovenia;Euro;EUR;€;978;2
+SJ;Svalbard and Jan Mayen;Norwegian Krone;NOK;kr;578;2
+SK;Slovakia;Euro;EUR;€;978;2
+SL;Sierra Leone;Leone;SLL;Le;694;2
+SM;San Marino;Euro;EUR;€;978;2
+SN;Senegal;CFA Franc BCEAO;XOF;CFA;952;0
+SO;Somalia;Somali Shilling;SOS;S;706;2
+SR;Suriname;Surinam Dollar;SRD;$;968;2
+SS;South Sudan;South Sudanese Pound;SSP;£;728;2
+ST;Sao Tome and Principe;Dobra;STD;Db;678;2
+SV;El Salvador;El Salvador Colon;SVC;$;222;2
+SX;Sint Maarten;Netherlands Antillean Guilder;ANG;ƒ;532;2
+SY;Syria;Syrian Pound;SYP;£;760;2
+SZ;Swaziland;Lilangeni;SZL;E;748;2
+TC;Turks and Caicos Islands;US Dollar;USD;$;840;2
+TD;Chad;CFA Franc BEAC;XAF;CFA;950;0
+TF;French Southern Territories;Euro;EUR;€;978;2
+TG;Togo;CFA Franc BCEAO;XOF;CFA;952;0
+TH;Thailand;Baht;THB;฿;764;2
+TJ;Tajikistan;Somoni;TJS;SM;972;2
+TK;Tokelau;New Zealand Dollar;NZD;$;554;2
+TL;Timor-Leste;US Dollar;USD;$;840;2
+TM;Turkmenistan;Turkmenistan Manat;TMT;m;934;2
+TN;Tunisia;Tunisian Dinar;TND;د.ت;788;3
+TO;Tonga;Pa’anga;TOP;T$;776;2
+TR;Turkey;Turkish Lira;TRY;TL;949;2
+TT;Trinidad and Tobago;Trinidad and Tobago Dollar;TTD;TT$;780;2
+TV;Tuvalu;Australian Dollar;AUD;$;036;2
+TW;Taiwan;New Taiwan Dollar;TWD;NT$;901;2
+TZ;Tanzania;Tanzanian Shilling;TZS;TSh;834;2
+UA;Ukraine;Hryvnia;UAH;₴;980;2
+UG;Uganda;Uganda Shilling;UGX;USh;800;0
+UM;Minor Outlying Islands;US Dollar;USD;$;840;2
+US;United States;US Dollar;USD;$;840;2
+UY;Uruguay;Uruguay Peso en Unidades Indexadas (URUIURUI);UYI;$U;940;0
+UZ;Uzbekistan;Uzbekistan Sum;UZS;лв;860;2
+VA;Vatican;Euro;EUR;€;978;2
+VC;St Vincent & the Grenadines;East Caribbean Dollar;XCD;$;951;2
+VE;Venezuela;Bolivar ;VEF;Bs;937;2
+VG;British Virgin Islands;US Dollar;USD;$;840;2
+VI;U.S. Virgin Islands;US Dollar;USD;$;840;2
+VN;Vietnam;Dong;VND;₫;704;0
+VU;Vanuatu;Vatu;VUV;VT;548;0
+WF;Wallis and Futuna;CFP Franc;XPF;CFP;953;0
+WS;Samoa;Tala;WST;WS$;882;2
+YE;Yemen;Yemeni Rial;YER;﷼;886;2
+YT;Mayotte;Euro;EUR;€;978;2
+ZA;South Africa;Rand;ZAR;R;710;2
+ZM;Zambia;Zambian Kwacha;ZMW;ZK;967;2
+ZW;Zimbabwe;Zimbabwe Dollar;ZWL;Z$;932;2

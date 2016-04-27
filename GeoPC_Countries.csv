@@ -1,0 +1,253 @@
+iso;country;sovereign;postalformat;postalname;geopc
+AD;Andorra;;AD999;Postal code;1
+AE;United Arab Emirates;;-;;1
+AF;Afghanistan;;9999;Postal code;1
+AG;Antigua and Barbuda;;-;;1
+AI;Anguilla;GB;"""AI-2640""";Postcode;2
+AL;Albania;;9999;Postal code;1
+AM;Armenia;;9999;Postal code;1
+AO;Angola;;-;;1
+AQ;Antarctica;;-;;0
+AR;Argentina;;A9999AAA;CPA;1
+AS;American Samoa;US;99999;ZIP codes;2
+AT;Austria;;9999;PLZ;1
+AU;Australia;;9999;Postal code;1
+AW;Aruba;NL;-;;2
+AX;Åland;FI;AX-99999;Postnummer;2
+AZ;Azerbaijan;;AZ 9999;İndeks;1
+BA;Bosnia-Herzegovina;;99999;Postal code;1
+BB;Barbados;;BB99999;Postal code;1
+BD;Bangladesh;;9999;Postal code;1
+BE;Belgium;;9999;Code postal / Postcode;1
+BF;Burkina Faso;;-;;1
+BG;Bulgaria;;9999;Postal code;1
+BH;Bahrain;;[9]999;Postal code;0
+BI;Burundi;;-;;1
+BJ;Benin;;-;;1
+BL;Saint Barthélemy;FR;99999;Code postal;2
+BM;Bermuda;GB;AA 99;Postcode;2
+BN;Brunei;;AA9999;Postal code;1
+BO;Bolivia;;9999;Código postal;1
+BQ;Bonaire, St Eustatius & Saba;NL;9999 AA;Postal code;2
+BR;Brazil;;99999-999;CEP;1
+BS;Bahamas;;-;;1
+BT;Bhutan;;999;Postal code;1
+BV;Bouvet Island;NO;-;;2
+BW;Botswana;;-;;0
+BY;Belarus;;299999;Postal code;1
+BZ;Belize;;-;;1
+C-;Clipperton Island;FR;-;;2
+CA;Canada;;A9A 9A9;Postal code / Code postal;1
+CC;Cocos (Keeling) Islands;AU;9999;Postal code;2
+CD;Congo D.R.;;-;;1
+CF;Central African Rep.;;-;;1
+CG;Congo;;-;;0
+CH;Switzerland;;9999;NPA;1
+CI;Côte d'Ivoire;;-;;1
+CK;Cook Islands;NZ;-;;2
+CL;Chile;;999-9999;Código postal;1
+CM;Cameroon;;-;;1
+CN;China;;999999;Postal code;1
+CO;Colombia;;999999;Código postal;1
+CR;Costa Rica;;99999;Código postal;1
+CU;Cuba;;99999;Código postal;1
+CV;Cape Verde;;9999;Postal code;1
+CW;Curaçao;NL;-;;2
+CX;Christmas Island;AU;9999;Post Code;2
+CY;Cyprus;;9999;Postal code;1
+CZ;Czech Republic;;999 99;PSČ;1
+DE;Germany;;99999;PLZ;1
+DJ;Djibouti;;-;;0
+DK;Denmark;;9999;Postal code;1
+DM;Dominica;;-;;1
+DO;Dominican Republic;;99999;Código postal;1
+DZ;Algeria;;99999;Code postal;1
+EC;Ecuador;;999999;Código postal;1
+EE;Estonia;;99999;Postal code;1
+EG;Egypt;;99999;Postal code;1
+EH;Western Sahara;;99999;Postal code;0
+ER;Eritrea;;-;;1
+ES;Spain;;99999;Código postal;1
+ET;Ethiopia;;9999;Postal code;1
+FI;Finland;;99999;Postnummer;1
+FJ;Fiji;;-;;0
+FK;Falkland Islands;GB;"""FIQQ 1ZZ""";Postcode;2
+FM;Micronesia;US;99999;ZIP codes;2
+FO;Faroe Islands;DK;999;Postal code;2
+FR;France;;99999;Code postal;1
+GA;Gabon;;99 city 99;Postal code;0
+GB;United Kingdom;;AA9 9AA;Postcode;1
+GD;Grenada;;-;;0
+GE;Georgia;;9999;Postal code;1
+GF;French Guiana;FR;99999;Code postal;2
+GG;Guernsey;GB;GY9 9AA;Postcode;2
+GH;Ghana;;-;;0
+GI;Gibraltar;GB;"""GX11 1AA""";Postcode;2
+GL;Greenland;DK;9999;Postal code;2
+GM;Gambia;;-;;0
+GN;Guinea;;-;;1
+GP;Guadeloupe;FR;99999;Code postal;2
+GQ;Equatorial Guinea;;-;;0
+GR;Greece;;999 99;Postal code;1
+GS;South Georgia & Sandwich;GB;"""SIQQ 1ZZ""";Postcode;2
+GT;Guatemala;;99999;Código postal;1
+GU;Guam;US;99999;ZIP codes;2
+GW;Guinea-Bissau;;9999;Postal code;0
+GY;Guyana;;-;;1
+HK;Hong Kong;CN;-;;2
+HM;Heard & McDonald Islands;AU;9999;Postal code;2
+HN;Honduras;;99999;Código postal;1
+HR;Croatia;;99999;Postal code;1
+HT;Haiti;;9999;Code postal;1
+HU;Hungary;;9999;Postal code;1
+ID;Indonesia;;99999;Postal code;1
+IE;Ireland;;D99;Postcode;1
+IL;Israel;;9999999;Postal code;1
+IM;Isle of Man;GB;IM9 9AA;Postcode;2
+IN;India;;999999;PIN code;1
+IO;British Indian Ocean Terr.;GB;"""BB9D 1ZZ""";Postcode;2
+IQ;Iraq;;99999;Postal code;1
+IR;Iran;;99999-99999;Postal code;1
+IS;Iceland;;999;Postal code;1
+IT;Italy;;99999;CAP;1
+JE;Jersey;GB;JE9 9AA;Postcode;2
+JM;Jamaica;;JMAAA99;Postal code;1
+JO;Jordan;;99999;Postal code;0
+JP;Japan;;999-9999;郵便番号;1
+KE;Kenya;;99999;Postal code;1
+KG;Kyrgyzstan;;999999;Postal code;1
+KH;Cambodia;;99999;Postal code;1
+KI;Kiribati;;-;;1
+KM;Comoros;;-;;0
+KN;Saint Kitts and Nevis;;-;;0
+KP;North Korea;;-;;1
+KR;South Korea;;999-999;Postal code;1
+KW;Kuwait;;99999;Postal code;0
+KY;Cayman Islands;GB;KY9-9999;Postal code;2
+KZ;Kazakhstan;;999999;Postal code;1
+LA;Laos;;99999;Postal code;0
+LB;Lebanon;;9999 9999;Postal code;1
+LC;Saint Lucia;;-;;0
+LI;Liechtenstein;;9999;PLZ;1
+LK;Sri Lanka;;99999;Postal code;1
+LR;Liberia;;9999;Postal code;1
+LS;Lesotho;;999;Postal code;0
+LT;Lithuania;;99999;Postal code;1
+LU;Luxembourg;;9999;Code postal;1
+LV;Latvia;;LV-9999;Postal code;1
+LY;Libya;;99999;Postal code;1
+MA;Morocco;;99999;Code postal;1
+MC;Monaco;;"""98000""";Code postal;1
+MD;Moldova;;9999;Postal code;1
+ME;Montenegro;;99999;Postal code;1
+MF;Saint Martin;FR;99999;Code postal;2
+MG;Madagascar;;999;Code postal;1
+MH;Marshall Islands;US;99999;ZIP codes;2
+MK;Macedonia;;9999;Postal code;1
+ML;Mali;;-;;1
+MM;Burma;;99999;Postal code;1
+MN;Mongolia;;999999;Postal code;1
+MO;Macau;CN;-;;2
+MP;Northern Mariana Islands;US;99999;ZIP codes;2
+MQ;Martinique;FR;99999;Code postal;2
+MR;Mauritania;;-;;1
+MS;Montserrat;GB;-;;2
+MT;Malta;;AAA 9999;Postal code;1
+MU;Mauritius;;-;;0
+MV;Maldives;;99-99;Postal code;1
+MW;Malawi;;-;;1
+MX;Mexico;;99999;Código postal;1
+MY;Malaysia;;99999;Postal code;1
+MZ;Mozambique;;9999;Postal code;1
+NA;Namibia;;99999;Postal code;1
+NC;New Caledonia;FR;99999;Code postal;2
+NE;Niger;;9999;Code postal;1
+NF;Norfolk Island;AU;9999;Postal code;2
+NG;Nigeria;;999999;Postal code;1
+NI;Nicaragua;;999-999-9;Código postal;1
+NL;Netherlands;;9999 AA;Postal code;1
+NO;Norway;;9999;Postal code;1
+NP;Nepal;;99999;Postal code;1
+NR;Nauru;;-;;0
+NU;Niue;NZ;-;;2
+NZ;New Zealand;;9999;Postal code;1
+OM;Oman;;999;Postal code;0
+P-;Paracel Islands;;-;;0
+PA;Panama;;999999;Código postal;1
+PE;Peru;;99999;Código postal;1
+PF;French Polynesia;FR;99999;Code postal;2
+PG;Papua New Guinea;;999;Postal code;1
+PH;Philippines;;9999;Postal code;1
+PK;Pakistan;;99999;Postal code;1
+PL;Poland;;99-999;Postal code;1
+PM;Saint Pierre & Miquelon;FR;99999;Code postal;2
+PN;Pitcairn Islands;GB;"""PCR9 1ZZ""";Postcode;2
+PR;Puerto Rico;US;99999;ZIP codes;2
+PS;Gaza Strip;;-;;0
+PT;Portugal;;9999-999;Postal code;1
+PW;Palau;US;99999;ZIP codes;2
+PY;Paraguay;;9999;Código postal;1
+QA;Qatar;;-;;1
+RE;Réunion;FR;99999;Code postal;2
+RO;Romania;;999999;Postal code;1
+RS;Serbia;;99999;Poštanski broj;1
+RU;Russia;;999999;Postal code;1
+RW;Rwanda;;-;;1
+S-;Spratly Islands;;-;;0
+SA;Saudi Arabia;;99999;Postal code;0
+SB;Solomon Islands;;-;;0
+SC;Seychelles;;-;;0
+SD;Sudan;;99999;Postal code;1
+SE;Sweden;;999 99;Postal code;1
+SG;Singapore;;999999;Postal code;1
+SH;Saint Helena;GB;"""TDCU 1ZZ""";Postcode;2
+SI;Slovenia;;9999;Postal code;1
+SJ;Svalbard and Jan Mayen;NO;9999;Postal code;2
+SK;Slovakia;;999 99;PSČ;1
+SL;Sierra Leone;;-;;0
+SM;San Marino;;99999;CPI;1
+SN;Senegal;;99999;Code postal;1
+SO;Somalia;;-;;1
+SR;Suriname;;-;;1
+SS;South Sudan;;99999;Postal code;1
+ST;Sao Tome and Principe;;-;;0
+SV;El Salvador;;9999;Código postal;1
+SX;Sint Maarten;NL;-;;2
+SY;Syria;;-;;1
+SZ;Swaziland;;A999;Postal code;1
+TC;Turks and Caicos Islands;GB;"""TKCA 1ZZ""";Postcode;2
+TD;Chad;;99999;Code postal;1
+TF;French Southern Territories;FR;-;;0
+TG;Togo;;-;;0
+TH;Thailand;;99999;Postal code;1
+TJ;Tajikistan;;999999;Postal code;0
+TK;Tokelau;NZ;-;;2
+TL;Timor-Leste;;-;;1
+TM;Turkmenistan;;999999;Postal code;0
+TN;Tunisia;;9999;Code postal;1
+TO;Tonga;;-;;0
+TR;Turkey;;99999;Postal code;1
+TT;Trinidad and Tobago;;999999;Postal code;0
+TV;Tuvalu;;-;;0
+TW;Taiwan;CN;999 99;Postal code;1
+TZ;Tanzania;;-;;1
+UA;Ukraine;;99999;Postal code;1
+UG;Uganda;;-;;1
+UM;Minor Outlying Islands;US;-;;2
+US;United States;;99999;ZIP codes;1
+UY;Uruguay;;99999;Código postal;1
+UZ;Uzbekistan;;999999;Postal code;1
+VA;Vatican;;"""00120""";CAP;1
+VC;St Vincent & the Grenadines;;VC9999;Postal code;0
+VE;Venezuela;;9999;Código postal;1
+VG;British Virgin Islands;GB;VG9999;Postal code;2
+VI;Virgin Islands;US;99999;ZIP codes;2
+VN;Vietnam;;999999;Postal code;1
+VU;Vanuatu;;-;;0
+WF;Wallis and Futuna;FR;99999;Code postal;2
+WS;Samoa;;-;;0
+YE;Yemen;;-;;1
+YT;Mayotte;FR;99999;Code postal;2
+ZA;South Africa;;9999;Postal code;1
+ZM;Zambia;;99999;Postal code;1
+ZW;Zimbabwe;;-;;1
